@@ -35,12 +35,15 @@ function P2P(props){
             </div>
         </div>
         <div className="white-header">
-            <div>
-                <a href="">Express</a>
-                <a href="">P2P Trade</a>
-                <a href="">Orders</a>
-                <a href="">P2P User Center</a>
-                <a href="">P2P User Center</a>
+            <div className="white-header-box">
+            <a href="">USDT</a>
+             <a href="">BTC</a>
+            </div>
+            <div className="ul">
+                <a href="">USDT</a>
+                <a href="">BTC</a>
+                <a href="">BNB</a>
+                <a href="">ETH</a>
             </div>
            
         </div>
