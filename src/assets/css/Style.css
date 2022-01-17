@@ -1554,4 +1554,29 @@ margin: 20px 0;
 margin: 0;
  
  }
-
+ .black-header{
+   background: var(--text-black);
+   padding: 2rem;
+   display: flex;
+   justify-content: space-between;
+   box-shadow: var(--shadow);
+ }
+ .black-header a{
+   text-decoration: none;
+   font-size: 20px;
+   padding: 0 1rem;
+   color: var(--text-white);
+ }
+ .white-header{
+  background: var(--text-white);
+  padding: 1.5rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: var(--shadow);
+ }
+ .white-header a{
+  text-decoration: none;
+  font-size: 20px;
+  padding: 0 1rem;
+  color: var(--primary);
+}
