@@ -36,7 +36,7 @@ function P2P(props){
         </div>
         <div className="white-header">
             <div className="white-header-box">
-            <a href="" className="h-active">USDT</a>
+            <a href="" className="">USDT</a>
              <a href="">BTC</a>
             </div>
             <div className="ul">
