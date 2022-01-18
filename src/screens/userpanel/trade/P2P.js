@@ -166,6 +166,35 @@ function P2P(props){
             </Row>
             </Tab>
             <Tab eventKey="sell" title="Sell Crypto">
+            <Row>
+                <Col lg={4}>
+                <div className="buy-trade-box text-center">
+                <img src={Icon1}/>
+                <div className="text-center">
+                    <h3>Place an Order</h3>
+                    <p>Once you place a P2P order, the crypto<br/> asset will be escrowed by Binance P2P.</p>
+                </div>
+                </div>
+                </Col>
+                <Col lg={4}>
+                <div className="buy-trade-box text-center">
+                <img src={Icon2}/>
+                <div className="text-center">
+                    <h3>Pay the Seller</h3>
+                    <p>Send money to the seller via the suggested payment methods. Complete the fiat transaction and click "Transferred, notify seller" on Binance P2P.</p>
+                </div>
+                </div>
+                </Col>
+                <Col lg={4}>
+                <div className="buy-trade-box text-center">
+                <img src={Icon3}/>
+                <div className="text-center">
+                    <h3>Get your Crypto</h3>
+                    <p>Once the seller confirms receipt of money, the <br/> escrowed crypto will be released to you.</p>
+                </div>
+                </div>
+                </Col>
+            </Row>
             </Tab>
             </Tabs>
             </div>
