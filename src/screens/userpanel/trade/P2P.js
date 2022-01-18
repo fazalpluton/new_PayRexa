@@ -185,8 +185,7 @@ function P2P(props){
                     <Accordion heading={'Will my license be automatically renewed?'} content={'Non odit magnam dolorum. Et odio et maxime consequuntur provident. Error eaque est dolor et qui. Ex odit doloremque consequatur quis. Eaque et pariatur dolores. Magni in quasi dolor repudiandae explicabo.'}/>
                     <Accordion heading={'Will my license be automatically renewed?'} content={'Non odit magnam dolorum. Et odio et maxime consequuntur provident. Error eaque est dolor et qui. Ex odit doloremque consequatur quis. Eaque et pariatur dolores. Magni in quasi dolor repudiandae explicabo.'}/>
                     <Accordion heading={'Will my license be automatically renewed?'} content={'Non odit magnam dolorum. Et odio et maxime consequuntur provident. Error eaque est dolor et qui. Ex odit doloremque consequatur quis. Eaque et pariatur dolores. Magni in quasi dolor repudiandae explicabo.'}/>
-                    
-                        </Col>
+                    </Col>
                     <Col lg={6}>
                     <Accordion heading={'Will my license be automatically renewed?'} content={'Non odit magnam dolorum. Et odio et maxime consequuntur provident. Error eaque est dolor et qui. Ex odit doloremque consequatur quis. Eaque et pariatur dolores. Magni in quasi dolor repudiandae explicabo.'}/>
                     <Accordion heading={'Will my license be automatically renewed?'} content={'Non odit magnam dolorum. Et odio et maxime consequuntur provident. Error eaque est dolor et qui. Ex odit doloremque consequatur quis. Eaque et pariatur dolores. Magni in quasi dolor repudiandae explicabo.'}/>
